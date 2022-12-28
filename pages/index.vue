@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Pengunjung</h1>
-    <NuxtLink to=“/tambah”>Isi Buku</NuxtLink>
+    <NuxtLink to="/tambah">Isi Buku</NuxtLink>
     <form action="">
         <table border=“1” width=“50%”>
             <thead>
